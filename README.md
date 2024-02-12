@@ -15,7 +15,7 @@ https://launchpad.net/~ondrej/+archive/ubuntu/php/
 
 ```sudo apt update```
 
-### PHP 8.1 with common extensions
+### PHP 7.4 with common extensions
 ```sudo apt install php7.4 php7.4-cli php7.4-fpm php7.4-bcmath php7.4-curl php7.4-gd php7.4-intl php7.4-mbstring php7.4-mysql php7.4-opcache php7.4-sqlite3 php7.4-xml php7.4-zip libapache2-mod-php7.4 php7.4-common```
 
 ### PHP 8.1 with common extensions
