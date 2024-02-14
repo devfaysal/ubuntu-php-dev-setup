@@ -49,11 +49,12 @@ For the Laravel applications I have written a small bash script that can help cr
 ## Install Nodejs
 https://stackoverflow.com/a/66166866/6150983
 Download LTS version from https://nodejs.org/en (a file like node-v20.10.0-linux-x64.tar.xz will be downloaded)
+
 ```sudo apt update```
 
 ```sudo apt install xz-utils```
 
-```cd into the directory where the file node-v20.10.0-linux-x64.tar.xz downloaded```
+cd into the directory where the file node-v20.10.0-linux-x64.tar.xz downloaded
 
 ```sudo tar -xvf node-v20.10.0-linux-x64.tar.xz```
 
@@ -62,6 +63,7 @@ Download LTS version from https://nodejs.org/en (a file like node-v20.10.0-linux
 Check the version to confirm the installation 
 
 ```node --version```
+```npm -v```
 
 
 
