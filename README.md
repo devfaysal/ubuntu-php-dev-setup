@@ -57,7 +57,7 @@ Download LTS version from https://nodejs.org/en (a file like node-v20.10.0-linux
 
 ```sudo tar -xvf node-v20.10.0-linux-x64.tar.xz```
 
-```sudo cp -r node-v20.10.0-linux-x64.tar.xz/{bin,include,lib,share} /usr/```
+```sudo cp -r node-v20.10.0-linux-x64/{bin,include,lib,share} /usr/```
 
 Check the version to confirm the installation 
 
