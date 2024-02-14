@@ -29,6 +29,9 @@ https://launchpad.net/~ondrej/+archive/ubuntu/php/
 
 For quickly toggling between versions of PHP, I have written a small bash script that can be helpful https://github.com/devfaysal/switch-php-version
 
+## Install Composer
+https://getcomposer.org/download/
+
 ## Install MySQL
 ```sudo apt install mysql-server```
 
