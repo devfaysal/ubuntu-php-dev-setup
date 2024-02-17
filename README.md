@@ -35,6 +35,8 @@ https://getcomposer.org/download/
 ## Install MySQL
 ```sudo apt install mysql-server```
 
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04
+
 ## Permissions
 ```sudo a2enmod rewrite```
 
