@@ -27,6 +27,9 @@ https://launchpad.net/~ondrej/+archive/ubuntu/php/
 ### PHP 8.3 with common extensions
 ```sudo apt install php8.3 php8.3-cli php8.3-fpm php8.3-bcmath php8.3-curl php8.3-gd php8.3-intl php8.3-mbstring php8.3-mysql php8.3-opcache php8.3-sqlite3 php8.3-xml php8.3-zip libapache2-mod-php8.3 php8.3-common```
 
+### PHP 8.4 with common extensions
+```sudo apt install php8.4 php8.4-cli php8.4-fpm php8.4-bcmath php8.4-curl php8.4-gd php8.4-intl php8.4-mbstring php8.4-mysql php8.4-opcache php8.4-sqlite3 php8.4-xml php8.4-zip libapache2-mod-php8.4 php8.4-common```
+
 For quickly toggling between versions of PHP, I have written a small bash script that can be helpful https://github.com/devfaysal/switch-php-version
 
 ## Install Composer
